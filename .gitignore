@@ -66,3 +66,4 @@ gomock_reflect_*/
 
 # hack
 hack/oidc/realm.local.json
+config.bat
